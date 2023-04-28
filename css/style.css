@@ -56,11 +56,14 @@ body {
 }
 
 /*header section*/
-.hero_area {
+.pesca {
   background-image: url(../images/pesca-baner.png);
   background-size: cover;
 }
-
+.hero_area {
+  background-image: url(../images/hero-bg.jpg);
+  background-size: cover;
+}
 .sub_page .hero_area {
   height: auto;
 }
@@ -865,5 +868,34 @@ table-n{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
 }
+.title-degrade-loop-nerd {
+
+  font-size: 50px;
+  font-family: 'Overpass', sans-serif;
+  /* Definir o plano de fundo do texto */
+  background: linear-gradient(to right, #4141e1, #415ce1,#4176e1,#4191e1, #4141e1 );
+  display: inline-block;
+  /*Recorte o fundo até o texto*/
+  -webkit-background-clip: text;
+  background-clip: text;
+
+  /*Defina a cor do texto para transparente*/
+  color: transparent;
+}
+.title-degrade-loop-nerd1 {
+
+  font-size: 50px;
+  font-family: 'Overpass', sans-serif;
+  /* Definir o plano de fundo do texto */
+  background: linear-gradient(to right, #4141e1, #415ce1,#4176e1,#4191e1, #4141e1 );
+  display: inline-block;
+  /*Recorte o fundo até o texto*/
+  -webkit-background-clip: text;
+  background-clip: text;
+
+  /*Defina a cor do texto para transparente*/
+  color: transparent;
+}
+
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
