@@ -903,7 +903,7 @@ table-n{
   justify-content: left;
   align-items: flex-start;
   height: auto;
-  height: 1vh;
+  
 }.textyello {
   color: rgb(255, 255, 0);
   font-size: 25px;
@@ -911,7 +911,7 @@ table-n{
   justify-content: left;
   align-items: flex-start;
   height: auto;
-  height: 1vh;
+  
 
 }.textgren {
 
@@ -921,7 +921,7 @@ table-n{
   justify-content: left;
   align-items: flex-start;
   height: auto;
-  height: 7vh;
+  
 }
 
 .centerimg{
