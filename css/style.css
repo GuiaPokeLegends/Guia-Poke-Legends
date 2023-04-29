@@ -898,30 +898,32 @@ table-n{
 }
 .textred {
   color: red;
-  font-size: 25px;
+  font-size: 2em; /* ou 2rem */
   display: flex;
   justify-content: left;
   align-items: flex-start;
+  width: 100%;
   height: auto;
-  
-}.textyello {
+}
+
+.textyello {
   color: rgb(255, 255, 0);
-  font-size: 25px;
+  font-size: 2em; /* ou 2rem */
   display: flex;
   justify-content: left;
   align-items: flex-start;
+  width: 100%;
   height: auto;
-  
+}
 
-}.textgren {
-
+.textgren {
   color: green;
-  font-size: 25px;
+  font-size: 2em; /* ou 2rem */
   display: flex;
   justify-content: left;
   align-items: flex-start;
+  width: 100%;
   height: auto;
-  
 }
 
 .centerimg{
