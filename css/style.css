@@ -904,6 +904,8 @@ table-n{
   align-items: flex-start;
   width: 100%;
   height: auto;
+  -webkit-text-stroke: 1.5px rgb(0, 0, 0);
+  text-stroke: 1.5px rgb(0, 0, 0);
 }
 
 .textyello {
@@ -914,16 +916,21 @@ table-n{
   align-items: flex-start;
   width: 100%;
   height: auto;
+ 
+  -webkit-text-stroke: 1.5px rgb(0, 0, 0);
+   text-stroke: 1.5px rgb(0, 0, 0);
 }
 
 .textgren {
-  color: green;
+  color: rgb(0, 189, 0);
   font-size: 2em; /* ou 2rem */
   display: flex;
   justify-content: left;
   align-items: flex-start;
   width: 100%;
   height: auto;
+  -webkit-text-stroke: 1.5px rgb(0, 0, 0);
+  text-stroke: 1.5px rgb(0, 0, 0);
 }
 
 
