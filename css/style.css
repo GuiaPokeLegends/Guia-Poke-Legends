@@ -1078,6 +1078,15 @@ height: 5px;
   margin-top: 5vh;
   margin-left: 5vh;
 }
+.imagem {
+  width: 100%;
+  height: auto;
+}
+
+.imagem img {
+  max-width: 100%;
+  height: auto;
+}
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
